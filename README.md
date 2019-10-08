@@ -3,6 +3,7 @@ Latex-format paper templates, including Elsevier, arXiv and IEEE Access.
 Latex格式论文模板，包括Elsevier,arXiv和IEEE Access的。考虑到里面包含的一些资料和教材都是中文的，因此该repo主要面向中文用户
 
 =========================elsevier====================================
+
 elsevier上的latex教程：
 https://www.elsevier.com/authors/author-schemas/latex-instructions#crc
 
@@ -11,11 +12,13 @@ https://support.stmdocs.in/wiki/index.php?title=Elsarticle_-_CAS
 
 
 ==========================access===================================
+
 IEEE Access论文模板下载地址
 https://www.sharelatex.com/templates/journals/ieee-access-template
 
 
 ===========================latex==================================
+
 latex在线制作表格，自动生成代码：http://www.tablesgenerator.com/#
 
 latex插图命令说明：https://blog.csdn.net/king0406/article/details/51252298
