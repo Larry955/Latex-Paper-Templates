@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
+The style file: abbrvnat.bst
+I couldn't open database file references.bib.bib
+---line 209 of file main.aux
+ : \bibdata{references.bib
+ :                        }
+I'm skipping whatever remains of this command
+I found no database files---while reading file main.aux
+Warning--I didn't find a database entry for "Camacho-Collados"
+Warning--I didn't find a database entry for "Bengio2003"
+Warning--I didn't find a database entry for "mikolov2013distributed"
+Warning--I didn't find a database entry for "pennington2014glove"
+Warning--I didn't find a database entry for "peters2018deep"
+Warning--I didn't find a database entry for "conneau2017supervised"
+Warning--I didn't find a database entry for "arora2016simple"
+Warning--I didn't find a database entry for "DBLP:journals/corr/abs-1803-01400"
+Warning--I didn't find a database entry for "kiros2015skip"
+Warning--I didn't find a database entry for "bowman2015large"
+Warning--I didn't find a database entry for "DBLP:journals/corr/abs-1803-11175"
+Warning--I didn't find a database entry for "vaswani2017attention"
+Warning--I didn't find a database entry for "radford2018unsupervised"
+Warning--I didn't find a database entry for "DBLP:journals/corr/abs-1801-06146"
+Warning--I didn't find a database entry for "conneau2018senteval"
+Warning--I didn't find a database entry for "conneau2018you"
+Warning--I didn't find a database entry for "NIPS2014_5477"
+Warning--I didn't find a database entry for "bojanowski2016enriching"
+Warning--I didn't find a database entry for "joulin2016bag"
+Warning--I didn't find a database entry for "wittgenstein1953philosophical"
+Warning--I didn't find a database entry for "pagliardini2017unsupervised"
+Warning--I didn't find a database entry for "hardy1952inequalities"
+Warning--I didn't find a database entry for "iyyer2015deep"
+Warning--I didn't find a database entry for "le2014distributed"
+Warning--I didn't find a database entry for "hill2016learning"
+Warning--I didn't find a database entry for "bakarov2018survey"
+Warning--I didn't find a database entry for "hu2004mining"
+Warning--I didn't find a database entry for "wiebe2005annotating"
+Warning--I didn't find a database entry for "pang2005seeing"
+Warning--I didn't find a database entry for "socher2013recursive"
+Warning--I didn't find a database entry for "pang2004sentimental"
+Warning--I didn't find a database entry for "voorhees2000building"
+Warning--I didn't find a database entry for "lin2014microsoft"
+Warning--I didn't find a database entry for "dolan2004unsupervised"
+Warning--I didn't find a database entry for "cer2017semeval"
+Warning--I didn't find a database entry for "marelli2014sick"
+Warning--I didn't find a database entry for "Gardner2017AllenNLP"
+Warning--I didn't find a database entry for "journals/corr/KingmaB14"
+Warning--I didn't find a database entry for "he2016deep"
+Warning--I didn't find a database entry for "BharathCVPR2015"
+(There were 2 error messages)
